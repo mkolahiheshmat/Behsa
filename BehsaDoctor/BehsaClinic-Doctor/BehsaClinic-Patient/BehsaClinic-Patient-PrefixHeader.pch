@@ -1,0 +1,91 @@
+//
+//  BehsaClinic-Patient-PrefixHeader.pch
+//  BehsaClinic-Patient
+//
+//  Created by Yarima on 2/11/17.
+//  Copyright © 2017 Arash Z. Jahangiri. All rights reserved.
+//
+
+#ifndef BehsaClinic_Patient_PrefixHeader_pch
+#define BehsaClinic_Patient_PrefixHeader_pch
+
+#import "NetworkApi.h"
+#import "Networking.h"
+
+#import <sys/socket.h>
+#import <netinet/in.h>
+
+#import "Database.h"
+#import <AFHTTPSessionManager.h>
+#import <UIImageView+AFNetworking.h>
+#import "ProgressHUD.h"
+#import <sys/socket.h>
+#import <netinet/in.h>
+#import "ProgressHUD.h"
+#import "NSDictionary+LandingPage.h"
+#import "NSDictionary+LandingPageTableView.h"
+#import "LandingPageCustomCell.h"
+#import "TimeAgoViewController.h"
+#import "GetUsernamePassword.h"
+#import "LandingPageCustomCellAudio.h"
+#import "LandingPageCustomCellVideo.h"
+#import "DocumentDirectoy.h"
+#import <AVFoundation/AVFoundation.h>
+#import <AudioToolbox/AudioToolbox.h>
+#import "LandingPageCustomCellVideo.h"
+#import "VideoPlayerViewController.h"
+#import "FavoritesViewController.h"
+#import "AboutViewController.h"
+#import "LoginViewController.h"
+#import "LandingPageDetailViewController.h"
+#import "CommentViewController.h"
+#import "CustomButton.h"
+#import <sys/socket.h>
+#import <netinet/in.h>
+#import <MessageUI/MessageUI.h>
+#import "SearchViewCustomCell.h"
+#import "UserProfileViewController.h"
+#import "AZJAlertView.h"
+#import "ReportAbuseViewController.h"
+#import "BaseViewController.h"
+#import "NetworkEntity.h"
+#import "ReplacerEngToPer.h"
+#import "EnterCodeViewController.h"
+#import "ImageResizer.h"
+#import "ShakeAnimation.h"
+#import "UIImage+Extra.h"
+#import "EditProfileViewController.h"
+#import "NewPostViewController.h"
+#import "ShamsiDatePicker.h"
+#import "ConvertToPersianDate.h"
+#import "NewPostCell.h"
+#import "DateUtil.h"
+#import "Header.h"
+#import "SessionDetailViewController.h"
+#import "SessionDetailViewController2.h"
+#import <AVFoundation/AVFoundation.h>
+#import <AudioToolbox/AudioToolbox.h>
+#import "PatientViewController.h"
+#import "AllSessionsViewController.h"
+#import "AttributedTextClass.h"
+#import "ImageViewController.h"
+#import "NSString+height.h"
+#import "UILabel+Additions.h"
+#import "SharhViewController.h"
+#import "SVMaybe.h"
+#import "NSObject+SVMaybe.h"
+#import "NetworkStatusManager.h"
+#import "ErjaViewController.h"
+#define MAS_SHORTHAND
+#import "Masonry.h"
+#import "UITextView+toolbar.h"
+#import "UITextField+toolbar.h"
+#import "NSMutableArray+CheckBoundary.h"
+#import "NSArray+CheckBoundary.h"
+#import "NSMutableDictionary+checkBoundary.h"
+#import "NSDictionary+checkBoundary.h"
+#import "Common.h"
+#import "NSString+FarsiTools.h"
+#import "LoginViewController.h"
+
+#endif /* BehsaClinic_Patient_PrefixHeader_pch */
